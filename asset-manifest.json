@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/PracticaReact02/static/css/main.a617e044.chunk.css",
-    "main.js": "/PracticaReact02/static/js/main.e87813b6.chunk.js",
-    "main.js.map": "/PracticaReact02/static/js/main.e87813b6.chunk.js.map",
-    "runtime-main.js": "/PracticaReact02/static/js/runtime-main.b0f2772e.js",
-    "runtime-main.js.map": "/PracticaReact02/static/js/runtime-main.b0f2772e.js.map",
-    "static/js/2.2cbc4be5.chunk.js": "/PracticaReact02/static/js/2.2cbc4be5.chunk.js",
-    "static/js/2.2cbc4be5.chunk.js.map": "/PracticaReact02/static/js/2.2cbc4be5.chunk.js.map",
-    "static/js/3.2df85699.chunk.js": "/PracticaReact02/static/js/3.2df85699.chunk.js",
-    "static/js/3.2df85699.chunk.js.map": "/PracticaReact02/static/js/3.2df85699.chunk.js.map",
+    "main.css": "/PracticaReact02/static/css/main.75fb54ea.chunk.css",
+    "main.js": "/PracticaReact02/static/js/main.bce2826c.chunk.js",
+    "main.js.map": "/PracticaReact02/static/js/main.bce2826c.chunk.js.map",
+    "runtime-main.js": "/PracticaReact02/static/js/runtime-main.444967dc.js",
+    "runtime-main.js.map": "/PracticaReact02/static/js/runtime-main.444967dc.js.map",
+    "static/js/2.0c8831fd.chunk.js": "/PracticaReact02/static/js/2.0c8831fd.chunk.js",
+    "static/js/2.0c8831fd.chunk.js.map": "/PracticaReact02/static/js/2.0c8831fd.chunk.js.map",
+    "static/js/3.eae785a4.chunk.js": "/PracticaReact02/static/js/3.eae785a4.chunk.js",
+    "static/js/3.eae785a4.chunk.js.map": "/PracticaReact02/static/js/3.eae785a4.chunk.js.map",
     "index.html": "/PracticaReact02/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/PracticaReact02/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.2cbc4be5.chunk.js.LICENSE.txt": "/PracticaReact02/static/js/2.2cbc4be5.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/PracticaReact02/static/media/logo.6ce24c58.svg"
+    "static/css/main.75fb54ea.chunk.css.map": "/PracticaReact02/static/css/main.75fb54ea.chunk.css.map",
+    "static/js/2.0c8831fd.chunk.js.LICENSE.txt": "/PracticaReact02/static/js/2.0c8831fd.chunk.js.LICENSE.txt",
+    "static/media/imagen1.ea4b183a.jpg": "/PracticaReact02/static/media/imagen1.ea4b183a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0f2772e.js",
-    "static/js/2.2cbc4be5.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.e87813b6.chunk.js"
+    "static/js/runtime-main.444967dc.js",
+    "static/js/2.0c8831fd.chunk.js",
+    "static/css/main.75fb54ea.chunk.css",
+    "static/js/main.bce2826c.chunk.js"
   ]
 }
